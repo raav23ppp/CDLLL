@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432553671981",
+    "firebase_url": "https://cartelera-del-llano-4334e.firebaseio.com",
+    "project_id": "cartelera-del-llano-4334e",
+    "storage_bucket": "cartelera-del-llano-4334e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432553671981:android:11129668997622805527a4",
+        "android_client_info": {
+          "package_name": "dta.cdll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432553671981-8enlrsoj2p6o8ol1dufprsjk0npeusmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dta.cdll",
+            "certificate_hash": "cddaec8c210ce17af4965103648c81c7517c7a45"
+          }
+        },
+        {
+          "client_id": "432553671981-2938vuqf84add33iu037l6qt9dss9hgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1M2EXmLTyiI2M7SLFYNHMJv2Tq7V4oO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432553671981-2938vuqf84add33iu037l6qt9dss9hgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
